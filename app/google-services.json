@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207409435348",
+    "project_id": "anyquiz-e0fc3",
+    "storage_bucket": "anyquiz-e0fc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207409435348:android:657955b5096ab65321e141",
+        "android_client_info": {
+          "package_name": "com.example.anyquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2vyimDiTPrG7S6YIWALq0RoQRrr11nAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
